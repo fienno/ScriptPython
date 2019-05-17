@@ -1,0 +1,15 @@
+*.py
+*.csv
+*.pdf
+*.pyc
+*.json
+*.txt
+*.png
+*.cypher
+*.ipynb
+*.csv#
+Data
+Test_Feature_Metiers
+recommender
+ProjectProjection
+test_algo_feature_extract
